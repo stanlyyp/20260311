@@ -1,2 +1,2 @@
 import os
-print(2+2)
+print("改了没")
